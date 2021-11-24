@@ -4,16 +4,53 @@ body{
     background-color: green;
 }
 
-article{
-    background-color: white;
+.banner{
+    font-size: 40px;
+    font-weight: bold;
 }
 
-.banner,
 .subbanner{
-
+    font-family: "cursive";
+    font-size: 25px;
 }
+
+article{
+    background-color: lightgrey;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+
+.img{
+    border: 10px solid cornflowerblue;
+}
+
 
 button{
     height: 75px;
     width: 150px;
+    margin: 5px;
+    display:inline-block;
+    vertical-align: top;
+    font-size: 22px;
+    font-family: "Monaco";
+    
+}
+
+.toast{
+    background-color: brown;
+    color: yellow;
+    text-decoration: underline;
+}
+
+.smc{
+    font-size: 18px;
+    background-color: orange;
+    color: brown;
+}
+
+.salami{
+    background-color: tomato;
+    color: white;
 }
