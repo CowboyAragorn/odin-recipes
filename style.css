@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+}
+
+article{
+    background-color: white;
+}
+
+.banner,
+.subbanner{
+
+}
+
+button{
+    height: 75px;
+    width: 150px;
+}
