@@ -34,6 +34,7 @@ article{
     background-color: silver;
     width: 1000px;
     margin: auto auto;
+    border: black dashed 8px;
 }
 
 .img{
