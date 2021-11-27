@@ -1,31 +1,48 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: green;
+    background-color: #C23232;
+    width: 1000px
+    margin: auto
 }
 
 .banner{
     font-size: 40px;
     font-weight: bold;
+    margin: 40px;
+    padding: 30px;
+    border: 1px red;
+    background-color: orange;
+    
 }
+
 
 .subbanner{
     font-family: "cursive";
     font-size: 25px;
+    background-color: blue;
+    height: auto;
+    width: 500px;
+    padding: 5px 10px;
+    margin: 10px auto;
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+   
 }
 
 article{
-    background-color: lightgrey;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-bottom: 10%;
-    margin-top: 5%;
+    background-color: silver;
+    width: 1450px;
+    margin: auto
 }
 
 .img{
     border: 10px solid cornflowerblue;
     height: 250px;
     width: 250px;
+    margin: auto;
 }
 
 
